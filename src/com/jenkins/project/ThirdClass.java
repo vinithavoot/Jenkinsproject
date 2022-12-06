@@ -18,6 +18,8 @@ public class ThirdClass {
     System.out.println("new");
     System.out.println("new");
     System.out.println("vini");
+    System.out.println("vini123");
+    
     
 	}
 
