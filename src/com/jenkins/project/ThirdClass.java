@@ -17,6 +17,7 @@ public class ThirdClass {
     System.out.println("ADDED");
     System.out.println("new");
     System.out.println("new");
+    System.out.println("vini");
     
 	}
 
